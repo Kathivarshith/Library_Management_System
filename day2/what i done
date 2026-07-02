@@ -1,0 +1,73 @@
+🚀 Day 2 Progress - Library Management System
+
+Today, I expanded my Python-based Library Management System by implementing core library operations and improving the overall project structure.
+
+✅ Features Implemented
+📚 Book Management
+Add Book
+View Books
+Search Books (by Title/ISBN)
+Update Book Details
+Delete Book
+👥 Member Management
+Add Member
+View Members
+Search Members
+Update Member Details
+Delete Member
+🔄 Book Transactions
+Issue Book to Members
+Return Book
+Automatic Book Quantity Update
+Due Date Tracking
+Late Fine Calculation
+📊 Dashboard & Reports
+Library Dashboard
+Total Books
+Available Books
+Total Members
+Issued Books Count
+Overdue Books Report
+Library Statistics Report
+🔐 Security
+Admin Login Authentication
+💻 Technologies Used
+Python
+SQLite
+SQL (CRUD Operations)
+Modular Programming
+Functions
+Exception Handling
+Date & Time (datetime)
+Git & GitHub
+📂 Project Structure
+LibraryManagementSystem/
+│── main.py
+│── database.py
+│── book.py
+│── member.py
+│── transaction.py
+│── dashboard.py
+│── reports.py
+│── auth.py
+│── library.db
+│── README.md
+📖 Concepts Learned
+CRUD Operations
+SQLite Database Integration
+SQL Queries
+Table Relationships
+JOIN Operations
+Date Calculations
+Modular Code Organization
+Authentication
+Python Functions
+Database Transactions
+Project Structuring
+🚀 Upcoming Features
+Input Validation
+CSV Export
+Tkinter GUI
+Streamlit Web Application
+Advanced Reports
+Improved Error Handling
