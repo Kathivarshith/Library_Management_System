@@ -33,7 +33,7 @@ from reports import (
     get_overdue_books,
     get_transaction_report
 )
-
+from database import create_tables
 st.set_page_config(
     page_title="Library Management System",
     page_icon="📚",
@@ -41,6 +41,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+create_tables()
 # -----------------------------
 # Session State
 # -----------------------------
