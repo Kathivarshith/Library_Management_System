@@ -7,10 +7,7 @@ A modern and user-friendly **Library Management System** built using **Python, S
 ---
 
 ## 🚀 Live Demo
-
-🔗 **Coming Soon**
-
-*(Update this section after deploying to Streamlit Cloud.)*
+https://librarymanagementsystem-v.streamlit.app/
 
 ---
 
