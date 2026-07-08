@@ -101,3 +101,33 @@ def get_user_profile(user_id):
     conn.close()
 
     return user
+
+
+def create_default_admin():
+    conn = connect_db()
+    cursor = conn.cursor()
+
+    cursor.execute(
+        "SELECT id FROM users WHERE username = ?",
+        ("admin",)
+    )
+
+    admin = cursor.fetchone()
+
+    if admin is None:
+        cursor.execute("""
+            INSERT INTO users
+            (name, email, phone, username, password, role)
+            VALUES (?, ?, ?, ?, ?, ?)
+        """, (
+            "Admin",
+            "admin@gmail.com",
+            "9999999999",
+            "admin",
+            hash_password("admin123"),
+            "admin"
+        ))
+
+        conn.commit()
+
+    conn.close()
