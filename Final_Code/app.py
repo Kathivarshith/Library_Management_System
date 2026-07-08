@@ -42,6 +42,11 @@ st.set_page_config(
 )
 
 create_tables()
+
+from auth import create_default_admin
+
+create_tables()
+create_default_admin()
 # -----------------------------
 # Session State
 # -----------------------------
