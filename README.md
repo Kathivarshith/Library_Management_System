@@ -9,6 +9,14 @@ A modern and user-friendly **Library Management System** built using **Python, S
 ## 🚀 Live Demo
 https://librarymanagementsystem-v.streamlit.app/
 
+
+-------
+## For Admin Login :
+username : admin
+password : admin123
+
+## For Student Login:
+First Register and Next Login With Given Credientials
 ---
 
 ## ✨ Features
@@ -152,47 +160,49 @@ LibraryManagementSystem/
 
 ## 📸 Application Screenshots
 
+## 📸 Application Screenshots
+
 ### 🔐 Login Page
-![Login Page](screenshots/Login_Page.png)
+![Login Page](Final_Code/screenshots/Login_Page.png)
 
 ### 📝 Register Page
-![Register Page](screenshots/Register_page.png)
+![Register Page](Final_Code/screenshots/Register_page.png)
 
 ### 📊 Admin Dashboard
-![Dashboard](screenshots/Admin_DashBoard.png)
+![Dashboard](Final_Code/screenshots/Admin_DashBoard.png)
 
 ### 📚 Book Management
-![Books](screenshots/Admin_Book1.png)
+![Books](Final_Code/screenshots/Admin_Book1.png)
 
 ### ✏️ Update & Delete Books
-![Books](screenshots/Admin_Book2.png)
+![Books](Final_Code/screenshots/Admin_Book2.png)
 
 ### 👥 Member Management
-![Members](screenshots/Admin_Member1.png)
+![Members](Final_Code/screenshots/Admin_Member1.png)
 
 ### ✏️ Update & Delete Members
-![Members](screenshots/Admin_Member2.png)
+![Members](Final_Code/screenshots/Admin_Member2.png)
 
 ### 🔄 Transactions
-![Transactions](screenshots/Admin_Transcations.png)
+![Transactions](Final_Code/screenshots/Admin_Transcations.png)
 
 ### 📈 Reports
-![Reports](screenshots/Admin_Library_Report.png)
+![Reports](Final_Code/screenshots/Admin_Library_Report.png)
 
 ### ⚙️ Settings
-![Settings](screenshots/Admin_Settin_Page.png)
+![Settings](Final_Code/screenshots/Admin_Settin_Page.png)
 
 ### 📚 Student - Available Books
-![Available Books](screenshots/AVL_Books.png)
+![Available Books](Final_Code/screenshots/AVL_Books.png)
 
-### 📖 Student - Issued Books
-![Issued Books](screenshots/Issued_Books.png)
+### 📖 Student - My Issued Books
+![Issued Books](Final_Code/screenshots/Issued_Books.png)
 
 ### 👤 Student Profile
-![Profile](screenshots/MY_Profile.png)
+![Profile](Final_Code/screenshots/MY_Profile.png)
 
 ### 📊 Student Dashboard
-![Student Dashboard](screenshots/Student_Dashboard.png)
+![Student Dashboard](Final_Code/screenshots/Student_Dashboard.png)
 
 ## ⚙️ Installation
 
