@@ -11,12 +11,7 @@ https://librarymanagementsystem-v.streamlit.app/
 
 
 -------
-## Login Access
-For Admin Login :
-username : admin,
-password : admin123
-For Student Login: 
-First Register and Next Login With Given Credientials
+
 
 
 ## ✨ Features
