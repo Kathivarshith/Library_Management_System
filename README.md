@@ -153,46 +153,46 @@ LibraryManagementSystem/
 ## 📸 Application Screenshots
 
 ### 🔐 Login Page
+![Login Page](screenshots/Login_Page.png)
 
-> Add Screenshot
+### 📝 Register Page
+![Register Page](screenshots/Register_page.png)
 
----
-
-### 📊 Dashboard
-
-> Add Screenshot
-
----
+### 📊 Admin Dashboard
+![Dashboard](screenshots/Admin_DashBoard.png)
 
 ### 📚 Book Management
+![Books](screenshots/Admin_Book1.png)
 
-> Add Screenshot
-
----
+### ✏️ Update & Delete Books
+![Books](screenshots/Admin_Book2.png)
 
 ### 👥 Member Management
+![Members](screenshots/Admin_Member1.png)
 
-> Add Screenshot
+### ✏️ Update & Delete Members
+![Members](screenshots/Admin_Member2.png)
 
----
-
-### 🔄 Transaction Management
-
-> Add Screenshot
-
----
+### 🔄 Transactions
+![Transactions](screenshots/Admin_Transcations.png)
 
 ### 📈 Reports
+![Reports](screenshots/Admin_Library_Report.png)
 
-> Add Screenshot
+### ⚙️ Settings
+![Settings](screenshots/Admin_Settin_Page.png)
 
----
+### 📚 Student - Available Books
+![Available Books](screenshots/AVL_Books.png)
 
-### 🎓 Student Portal
+### 📖 Student - Issued Books
+![Issued Books](screenshots/Issued_Books.png)
 
-> Add Screenshot
+### 👤 Student Profile
+![Profile](screenshots/MY_Profile.png)
 
----
+### 📊 Student Dashboard
+![Student Dashboard](screenshots/Student_Dashboard.png)
 
 ## ⚙️ Installation
 
